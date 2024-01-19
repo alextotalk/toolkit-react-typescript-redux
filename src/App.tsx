@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './logo.svg';
+import logo from './logo.svg';w
 import './App.css';
 
 //crate description here
@@ -14,7 +14,7 @@ function App() {
 
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/alextotalk/toolkit-react-typescript-redux"
           target="_blank"
           rel="noopener noreferrer"
         >
